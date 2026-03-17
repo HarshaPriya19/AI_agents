@@ -1,0 +1,33 @@
+00:00 Alice: Okay, let's get started. Today we need to finalize the DeployIt 2026 launch plan and figure out who is doing what.
+00:10 Bob: Sounds good. The main blocker right now is the integration testing with the legacy API.
+00:18 Alice: Right, and marketing is still waiting on final messaging.
+
+00:25 Carol: On the messaging side, I can take a first pass at the landing page copy.
+00:31 Alice: Thanks, Carol. Can you have that done by Friday so we can review next week?
+00:38 Carol: Yep, I'll handle that by Friday.
+
+00:45 Bob: For the integration tests, I'm a bit overloaded. Maybe someone else can own the alerting tests?
+00:52 David: I can help with that. I'll write the alerting test cases and wire them into CI.
+01:02 Alice: Great, David, please try to get those tests in before the demo on Wednesday.
+01:10 David: Got it, I'll aim for before Wednesday's demo.
+
+01:18 Alice: We also need someone to talk to the infra team about database capacity.
+01:24 Bob: I'll reach out to them this afternoon.
+01:30 Alice: Perfect, please confirm that we can handle a 3x traffic spike.
+
+01:38 Carol: Quick question: do we have sign-off on the new pricing tiers yet?
+01:43 Alice: Yes, leadership approved the pricing tiers yesterday.
+
+01:50 David: Do we need a runbook for on-call during launch?
+01:55 Alice: Yes, good call. Let's have an on-call runbook drafted.
+02:01 Bob: I'll put together the first version of the runbook by early next week.
+
+02:10 Alice: Okay, to recap:
+- Carol will own the landing page copy.
+- David owns the alerting tests.
+- Bob will talk to infra and draft the on-call runbook.
+Marketing review will be on Tuesday after we see the latest copy.
+
+02:25 Carol: Anything else?
+02:27 Alice: That's it from my side. Thanks, everyone.
+

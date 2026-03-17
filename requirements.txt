@@ -1,0 +1,12 @@
+flask
+flask-cors
+langchain-groq
+langchain-core
+pydantic
+python-dotenv
+python-telegram-bot==21.6
+requests
+numpy
+soundfile
+pyttsx3
+
